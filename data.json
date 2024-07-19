@@ -1,0 +1,459 @@
+[
+    {
+        "Key": "FS01-01-F",
+        "Export": "2",
+        "CARD ID": [
+            "FS01",
+            "01"
+        ],
+        "Rarity": "L",
+        "Category": "Leader",
+        "Card Name": "Son Goku",
+        "Cost": {
+            "Generic": 0
+        },
+        "Power": 15000,
+        "Counter": 0,
+        "Color": [
+            "Red"
+        ],
+        "Type": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Effect": "[When Attacking] Draw 1 Card. [Awaken] When your life is at 4 or less, draw 1 card. Then, flip this card over.",
+        "Art": 0,
+        "Set": "STARTER DECKS -Son Goku-"
+    },
+    {
+        "Key": "FS01-01-B",
+        "Export": "3",
+        "CARD ID": [
+            "FS01",
+            "01"
+        ],
+        "Rarity": "L",
+        "Category": "Leader",
+        "Card Name": "Son Goku",
+        "Cost": {
+            "Generic": 0
+        },
+        "Power": 20000,
+        "Counter": 0,
+        "Color": [
+            "Red"
+        ],
+        "Type": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Effect": "[When Attacking] Draw 1 Card. [Activate Battle] [Once per turn] Choose up to 1 of your Battle Cards and it gets +5000 power for the battle.",
+        "Art": 0,
+        "Set": "STARTER DECKS -Son Goku-"
+    },
+    {
+        "Key": "FS01-02",
+        "Export": "4",
+        "CARD ID": [
+            "FS01",
+            "02"
+        ],
+        "Rarity": "C",
+        "Category": "Battle",
+        "Card Name": "Whis",
+        "Cost": {
+            "Generic": 1,
+            "Red": 1
+        },
+        "Power": 5000,
+        "Counter": 10000,
+        "Color": [
+            "Red"
+        ],
+        "Type": [
+            "Angel",
+            "Universe 7"
+        ],
+        "Effect": "[On Play] Choose up to 1 of your opponent's Battle Cards and it gets -5000 power for the turn.",
+        "Art": 1,
+        "Set": "STARTER DECKS -Son Goku-"
+    },
+    {
+        "Key": "FS01-03",
+        "Export": "5",
+        "CARD ID": [
+            "FS01",
+            "03"
+        ],
+        "Rarity": "C",
+        "Category": "Battle",
+        "Card Name": "Master Roshi",
+        "Cost": {
+            "Generic": 1,
+            "Red": 1
+        },
+        "Power": 5000,
+        "Counter": 5000,
+        "Color": [
+            "Red"
+        ],
+        "Type": [
+            "Earthling",
+            "Universe 7"
+        ],
+        "Effect": "[On Play] Draw 1 card.",
+        "Art": 0,
+        "Set": "STARTER DECKS -Son Goku-"
+    },
+    {
+        "Key": "FS01-04",
+        "Export": "6",
+        "CARD ID": [
+            "FS01",
+            "04"
+        ],
+        "Rarity": "C",
+        "Category": "Battle",
+        "Card Name": "Krillin",
+        "Cost": {
+            "Generic": 2,
+            "Red": 1
+        },
+        "Power": 15000,
+        "Counter": 10000,
+        "Color": [
+            "Red"
+        ],
+        "Type": [
+            "Earthling",
+            "Universe 7"
+        ],
+        "Effect": "[Permanent] [Your Turn] This Card gets +5000 power. [On Play] Add up to 1 card from your life to your hand.",
+        "Art": 1,
+        "Set": "STARTER DECKS -Son Goku-"
+    },
+    {
+        "Key": "FS01-05",
+        "Export": "7",
+        "CARD ID": [
+            "FS01",
+            "05"
+        ],
+        "Rarity": "C",
+        "Category": "Battle",
+        "Card Name": "Shin",
+        "Cost": {
+            "Generic": 7,
+            "Red": 1
+        },
+        "Power": 15000,
+        "Counter": 10000,
+        "Color": [
+            "Red"
+        ],
+        "Type": [
+            "Supreme Kai",
+            "Universe 7"
+        ],
+        "Effect": "<<Super Combo>> [Auto] [Opponent's Turn] When you use this card in a combo from your hand, this card gets +10000 combo power.",
+        "Art": 1,
+        "Set": "STARTER DECKS -Son Goku-"
+    },
+    {
+        "Key": "FS01-06",
+        "Export": "8",
+        "CARD ID": [
+            "FS01",
+            "06"
+        ],
+        "Rarity": "C",
+        "Category": "Battle",
+        "Card Name": "Android 17",
+        "Cost": {
+            "Generic": 3,
+            "Red": 1
+        },
+        "Power": 20000,
+        "Counter": 10000,
+        "Color": [
+            "Red"
+        ],
+        "Type": [
+            "Android",
+            "Universe 7"
+        ],
+        "Effect": "[Permanent] [Opponent's Turn] This card gets + 5000 power. [On Play] Add up 1 card from your life to your hand.",
+        "Art": 2,
+        "Set": "STARTER DECKS -Son Goku-"
+    },
+    {
+        "Key": "FS01-07",
+        "Export": "9",
+        "CARD ID": [
+            "FS01",
+            "07"
+        ],
+        "Rarity": "C",
+        "Category": "Battle",
+        "Card Name": "Android 18",
+        "Cost": {
+            "Generic": 2,
+            "Red": 1
+        },
+        "Power": 20000,
+        "Counter": 10000,
+        "Color": [
+            "Red"
+        ],
+        "Type": [
+            "Android ",
+            "Universe 7"
+        ],
+        "Effect": "",
+        "Art": 0,
+        "Set": "STARTER DECKS -Son Goku-"
+    },
+    {
+        "Key": "FS01-08",
+        "Export": "10",
+        "CARD ID": [
+            "FS01",
+            "08"
+        ],
+        "Rarity": "SR",
+        "Category": "Battle",
+        "Card Name": "Son Goku",
+        "Cost": {
+            "Generic": 5,
+            "Red": 2
+        },
+        "Power": 35000,
+        "Counter": 0,
+        "Color": [
+            "Red"
+        ],
+        "Type": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Effect": "<<Double Strike>> [On Play] Choose up to 1 of your opponent's Battle Cards and it gets -20000 power for the turn.",
+        "Art": 1,
+        "Set": "STARTER DECKS -Son Goku-"
+    },
+    {
+        "Key": "FS01-09",
+        "Export": "11",
+        "CARD ID": [
+            "FS01",
+            "09"
+        ],
+        "Rarity": "SR",
+        "Category": "Battle",
+        "Card Name": "Son Gohan : Adolescence",
+        "Cost": {
+            "Generic": 4,
+            "Red": 2
+        },
+        "Power": 25000,
+        "Counter": 5000,
+        "Color": [
+            "Red"
+        ],
+        "Type": [
+            "Saiyan",
+            "Earthling",
+            "Universe 7"
+        ],
+        "Effect": "<<Critical>> [When Attacking] Choose up to 1 of your opponent's Battle Cards and it gets -10000 power for the turn.",
+        "Art": 1,
+        "Set": "STARTER DECKS -Son Goku-"
+    },
+    {
+        "Key": "FS01-10",
+        "Export": "12",
+        "CARD ID": [
+            "FS01",
+            "10"
+        ],
+        "Rarity": "C",
+        "Category": "Battle",
+        "Card Name": "Tien Shinhan",
+        "Cost": {
+            "Generic": 1,
+            "Red": 1
+        },
+        "Power": 15000,
+        "Counter": 10000,
+        "Color": [
+            "Red"
+        ],
+        "Type": [
+            "Earthling",
+            "Universe 7"
+        ],
+        "Effect": "",
+        "Art": 0,
+        "Set": "STARTER DECKS -Son Goku-"
+    },
+    {
+        "Key": "FS01-11",
+        "Export": "13",
+        "CARD ID": [
+            "FS01",
+            "11"
+        ],
+        "Rarity": "C",
+        "Category": "Battle",
+        "Card Name": "Piccolo",
+        "Cost": {
+            "Generic": 3,
+            "Red": 1
+        },
+        "Power": 25000,
+        "Counter": 10000,
+        "Color": [
+            "Red"
+        ],
+        "Type": [
+            "Namekian",
+            "God",
+            "Universe 7"
+        ],
+        "Effect": "",
+        "Art": 0,
+        "Set": "STARTER DECKS -Son Goku-"
+    },
+    {
+        "Key": "FS01-12",
+        "Export": "14",
+        "CARD ID": [
+            "FS01",
+            "12"
+        ],
+        "Rarity": "C",
+        "Category": "Battle",
+        "Card Name": "Beerus",
+        "Cost": {
+            "Generic": 3,
+            "Red": 1
+        },
+        "Power": 20000,
+        "Counter": 5000,
+        "Color": [
+            "Red"
+        ],
+        "Type": [
+            "God of Destruction",
+            "Universe 7 "
+        ],
+        "Effect": "<<Critical>> [When Attacking] Choose up to 1 of your other Battle Cards and it gets +5000 for the turn.",
+        "Art": 0,
+        "Set": "STARTER DECKS -Son Goku-"
+    },
+    {
+        "Key": "FS01-13",
+        "Export": "15",
+        "CARD ID": [
+            "FS01",
+            "13"
+        ],
+        "Rarity": "C",
+        "Category": "Battle",
+        "Card Name": "Frieza",
+        "Cost": {
+            "Generic": 4,
+            "Red": 1
+        },
+        "Power": 30000,
+        "Counter": 10000,
+        "Color": [
+            "Red"
+        ],
+        "Type": [
+            "Frieza Clan",
+            "Universe 7"
+        ],
+        "Effect": "",
+        "Art": 0,
+        "Set": "STARTER DECKS -Son Goku-"
+    },
+    {
+        "Key": "FS01-14",
+        "Export": "16",
+        "CARD ID": [
+            "FS01",
+            "14"
+        ],
+        "Rarity": "C",
+        "Category": "Battle",
+        "Card Name": "Vegeta",
+        "Cost": {
+            "Generic": 2,
+            "Red": 1
+        },
+        "Power": 15000,
+        "Counter": 10000,
+        "Color": [
+            "Red"
+        ],
+        "Type": [
+            "Saiyan",
+            "Universe 7"
+        ],
+        "Effect": "<<Critical>>",
+        "Art": 0,
+        "Set": "STARTER DECKS -Son Goku-"
+    },
+    {
+        "Key": "FS01-15",
+        "Export": "17",
+        "CARD ID": [
+            "FS01",
+            "15"
+        ],
+        "Rarity": "C",
+        "Category": "Extra",
+        "Card Name": "Kamehameha",
+        "Cost": {
+            "Generic": 1,
+            "Red": 1
+        },
+        "Power": 0,
+        "Counter": 0,
+        "Color": [
+            "Red"
+        ],
+        "Type": [
+            "Saiyan"
+        ],
+        "Effect": "[Activate Battle] Choose your Leader or up to 1 of your Battle Cards and it gets +15000 power for the battle. Then, choose up to 1 of your opponent's Battle Cards and it gets -5000 power for the turn.",
+        "Art": 2,
+        "Set": "STARTER DECKS -Son Goku-"
+    },
+    {
+        "Key": "FS01-16",
+        "Export": "18",
+        "CARD ID": [
+            "FS01",
+            "16"
+        ],
+        "Rarity": "C",
+        "Category": "Extra",
+        "Card Name": "God Kamehameha",
+        "Cost": {
+            "Generic": 2,
+            "Red": 1
+        },
+        "Power": 0,
+        "Counter": 0,
+        "Color": [
+            "Red"
+        ],
+        "Type": [
+            "Saiyan"
+        ],
+        "Effect": "[Permanent] If you have no Battle Cards, reduce the cost of this card in your hand by 1. [Activate Main] Choose up to 1 of your opponent's Battle CArds with 30000 power of less and KO it",
+        "Art": 1,
+        "Set": "STARTER DECKS -Son Goku-"
+    }
+]
