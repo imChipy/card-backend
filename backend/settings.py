@@ -56,7 +56,12 @@ MIDDLEWARE = [
 
 CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000',
+    'http://card-frontend.s3-website-us-east-1.amazonaws.com',
 ]
+CORS_ALLOWED_ORIGINS = [
+    'http://card-frontend.s3-website-us-east-1.amazonaws.com',
+]
+
 
 ROOT_URLCONF = 'backend.urls'
 
