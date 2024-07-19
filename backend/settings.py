@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-=p=bt4sf*#1yti+em(m289_^+0un)^uxtibre5-=vp=@fiq5sf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['174.129.167.53', 'http://card-frontend.s3-website-us-east-1.amazonaws.com/']
+ALLOWED_HOSTS = ['3.83.25.118', 'http://card-frontend.s3-website-us-east-1.amazonaws.com/']
 
 
 # Application definition
