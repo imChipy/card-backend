@@ -61,6 +61,7 @@ CORS_ORIGIN_WHITELIST = [
 ]
 CORS_ALLOWED_ORIGINS = [
     'http://card-frontend.s3-website-us-east-1.amazonaws.com',
+    'https://d3k3xidmpfj37c.cloudfront.net/'
 ]
 
 
