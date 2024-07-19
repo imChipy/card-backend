@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-=p=bt4sf*#1yti+em(m289_^+0un)^uxtibre5-=vp=@fiq5sf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['35.173.191.47', 'http://card-frontend.s3-website-us-east-1.amazonaws.com/']
+ALLOWED_HOSTS = ['35.173.191.47', 'http://card-frontend.s3-website-us-east-1.amazonaws.com/', 'https://d3k3xidmpfj37c.cloudfront.net/']
 
 
 # Application definition
@@ -57,6 +57,7 @@ MIDDLEWARE = [
 CORS_ORIGIN_WHITELIST = [
     'http://localhost:3000',
     'http://card-frontend.s3-website-us-east-1.amazonaws.com',
+    'https://d3k3xidmpfj37c.cloudfront.net/'
 ]
 CORS_ALLOWED_ORIGINS = [
     'http://card-frontend.s3-website-us-east-1.amazonaws.com',
